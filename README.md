@@ -1,7 +1,7 @@
 # bigsur-hackintosh-dell-inspiron-7590-4k
 #### Firstly,thanks a lot for tctien342's help.
 
->  This repository copy from tctien342's tag: [250421] 
+>  This repository copy from tctien342's `Tag:250421` 
 >  https://github.com/tctien342/Dell-Inspiron-7591-Hackintosh/releases/tag/build-0.6.8-v2
 
 #### This EFI work well with my laptop and it's also support external 4k display. Some one may need it. My laptop config: 
